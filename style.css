@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.block{
+    margin: 50px;
+    background: #8d8d88; 
+
+}
+.blockinside{
+    display: inline-block;
+    background-color:#FC8F8F;
+    width: 200px;
+    height: 200px;
+    padding-top: 63px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 64px;
+    color: #FFFFFF;
+}
+.blockinside-small{
+    display: inline-block;
+    top: 0;
+    margin-bottom: 100px;
+    background-color:#FC8F8F;
+    width: 100px;
+    height: 100px;
+    padding-top: 31px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.second{
+    margin-left: 15px;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.relative{
+    position: relative;
+} 
+.absolute{
+    position: absolute;
+}
+.clear{
+   clear:both;
+}
+
+.small-padding{
+    padding-right: 15px;
+}
