@@ -3,11 +3,12 @@
     padding: 0;
     box-sizing: border-box;
     text-align: center;
+    background:#C4C4C4;
 }
 
 .block{
     margin: 50px;
-    background: #8d8d88; 
+    background: #E6E6E6
 
 }
 .blockinside{
@@ -55,6 +56,6 @@
    clear:both;
 }
 
-.small-padding{
-    padding-right: 15px;
-}
+.small-margin{
+    margin-right: 15px;
+} 
